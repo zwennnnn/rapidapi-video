@@ -6,7 +6,7 @@ async function videoApi() {
   const options = {
     method: 'GET',
     headers: {
-      'X-RapidAPI-Key': '33e9f20db0mshf6049e02fd97946p1d6d36jsne6cf8ce763a6',
+      'X-RapidAPI-Key': 'PUT_YOUR_RAPİD_APİ_KEY',
       'X-RapidAPI-Host': 'domain-da-pa-check.p.rapidapi.com',
     },
   };
